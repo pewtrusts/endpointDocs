@@ -1,2 +1,2 @@
-# endpointDocs
-Client endpoint docs, guides, profiles, policies, etc
+# endpointDocs [Public]
+Client endpoint docs, guides, profiles, policies, etc.
