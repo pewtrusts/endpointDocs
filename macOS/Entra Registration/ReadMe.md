@@ -2,28 +2,31 @@
 # Secure Enclave backed key
 
 - After your Mac is provisioned for PSSOe, macOS will prompt you to register using your Entra ID.  
-  
+  ![Registration Required - Use your identity provider password to log in to your Mac.](https://github.com/pewtrusts/endpointDocs/blob/main/macOS/Entra%20Registration/Images/PSSOe_SecureEnclave_1.png?raw=true)
+
+  ![Platform Single Sign-on Registration](https://github.com/pewtrusts/endpointDocs/blob/main/macOS/Entra%20Registration/Images/PSSOe_SecureEnclave_2.png?raw=true)
 
 - You'll be prompted for your local macOS user account password (should match your Entra ID password).
   - This is a security step used to determine that you are present and actively using your device.
+  ![Enter your password to allow this.](https://github.com/pewtrusts/endpointDocs/blob/main/macOS/Entra%20Registration/Images/PSSOe_SecureEnclave_3.png?raw=true)
 
 
-
-
-
-- Next, you'll need to complete authentication via MFA/Microsoft Authenticator push with number challenge, Passkey enabled on another device, or security key.  
+- Next, you'll need to complete authentication via MFA/Microsoft Authenticator push with number challenge, Passkey enabled on another device, or security key.
+  
+  ![Enter your password to allow this.](https://github.com/pewtrusts/endpointDocs/blob/main/macOS/Entra%20Registration/Images/PSSOe_SecureEnclave_3.png?raw=true)
 
 *TWO PICS 
 
 - Upon completion, you'll be shown instructions to set up the device as a Passkey provider for Microsoft Entra ID. 
-
- 
-- You must dismiss the dialog or open system settings and remember the path to get to the setting required: 
-1. Open System Settings
-2. Go to General
-3. Autofill & Passwords (Enter local user password if prompted)
-4. Under Password Options slide the slider to enable **Use passwords and passkeys from**
-6. Slide the slider to enable the Company Portal app
+  ![To use your Entra ID passkey, you must enable Company Portal as a Passkey Provider.](https://github.com/pewtrusts/endpointDocs/blob/main/macOS/Entra%20Registration/Images/PSSOe_SecureEnclave_4.png?raw=true)
+  - You must dismiss the dialog or open system settings and remember the path to get to the setting required: 
+1. Open System Settings and go to General
+    ![System Settings - General](https://github.com/pewtrusts/endpointDocs/blob/main/macOS/Entra%20Registration/Images/PSSOe_SecureEnclave_6.png?raw=true)
+2. Under Password Options slide the slider to enable **Autofill passwords and Passkeys**
+    ![Autofill Passwords and Passkeys](https://github.com/pewtrusts/endpointDocs/blob/main/macOS/Entra%20Registration/Images/PSSOe_SecureEnclave_7.png?raw=true)
+3. Slide the slider to enable the Company Portal app
+   ![Enable Company Portal](https://github.com/pewtrusts/endpointDocs/blob/main/macOS/Entra%20Registration/Images/PSSOe_SecureEnclave_8.png?raw=true)
+   ![Enable Company Portal](https://github.com/pewtrusts/endpointDocs/blob/main/macOS/Entra%20Registration/Images/PSSOe_SecureEnclave_10.png?raw=true)
 
  
 - You can confirm the state of the Secure Enclave backed key by opening System Settings > Users & Groups and selecting the “i” next to your account.  
