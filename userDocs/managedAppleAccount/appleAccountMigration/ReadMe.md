@@ -5,11 +5,11 @@ If your Apple Account uses an email address that is owned by an organization, yo
 # Update your Apple Account
 When a business or school requests that all Apple Accounts using an email address associated with their organization should be managed, you will begin to receive emails from Apple and notifications on devices associated with your account with available options.
 
-![An example of an email from an Apple no-reply email address to an Apple Account using an organization's email domain with a subject line and message instructing the user to update their Apple Account, providing the options to either transfer the account to a work account or change the email address by a certain date.](https://github.com/pewtrusts/endpointDocs/blob/main/userDocs/managedAppleAccount/managedAppleIDMigration/Images/macos-sequoia-mail-update-your-apple-account.png?raw=true)
+![An example of an email from an Apple no-reply email address to an Apple Account using an organization's email domain with a subject line and message instructing the user to update their Apple Account, providing the options to either transfer the account to a work account or change the email address by a certain date.](https://github.com/pewtrusts/endpointDocs/blob/main/userDocs/managedAppleAccount/appleAccountMigration/Images/macos-sequoia-mail-update-your-apple-account.png?raw=true)
 
 You will be instructed to either [transfer to a work or school account](https://support.apple.com/en-us/102159#transfer) or [keep your Apple Account as a personal account](https://support.apple.com/en-us/102159#keeppersonal). Not all accounts are eligible for transfer. If your account is ineligible for transfer, you will not see that option.*
 
-![An iPhone screen displaying instructions to update an Apple Account by a certain date, including on-screen options to either transfer to a work account or to keep as a personal account.](https://github.com/pewtrusts/endpointDocs/blob/main/userDocs/managedAppleAccount/managedAppleIDMigration/Images/ios-18-iphone-15-pro-settings-apple-account-transfer.png?raw=true)
+![An iPhone screen displaying instructions to update an Apple Account by a certain date, including on-screen options to either transfer to a work account or to keep as a personal account.](https://github.com/pewtrusts/endpointDocs/blob/main/userDocs/managedAppleAccount/appleAccountMigration/Images/ios-18-iphone-15-pro-settings-apple-account-transfer.png?raw=true)
 
 ######*For example, accounts created for children ([minimum ages may differ across countries and regions](https://support.apple.com/102617#agevaries)), accounts temporarily deactivated in the [Data and Privacy portal](https://privacy.apple.com/), and other scenarios may cause an account to be ineligible to transferred to a work or school account. However, you can always update your Apple Account to a new email address.
 
@@ -65,7 +65,7 @@ You may be prompted to make changes before you are eligible to transfer your acc
 
 - [Delete Health data from iCloud](https://support.apple.com/108779)
 
-![An iPhone screen displaying that the Apple Account is unable to be transferred to a work account until changes are made, including an example of why the account can't be transferred.](https://github.com/pewtrusts/endpointDocs/blob/main/userDocs/managedAppleAccount/managedAppleIDMigration/Images/ios-18-iphone-15-pro-settings-apple-account-unable-to-transfer.png?raw=true)
+![An iPhone screen displaying that the Apple Account is unable to be transferred to a work account until changes are made, including an example of why the account can't be transferred.](https://github.com/pewtrusts/endpointDocs/blob/main/userDocs/managedAppleAccount/appleAccountMigration/Images/ios-18-iphone-15-pro-settings-apple-account-unable-to-transfer.png?raw=true)
 
 ###### You may be required to sign out of your devices before or during the transfer process.
 
