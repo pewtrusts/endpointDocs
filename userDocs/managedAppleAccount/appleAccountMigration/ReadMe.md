@@ -113,3 +113,5 @@ After your organization begins the process to require all Apple Accounts using t
 If you don't transfer your account or update your email address within 30 days, your Apple Account will be updated with a temporary username that includes @temporary.appleaccount.com. For example, john@example.edu will be updated to john-example.edu@temporary.appleaccount.com. Apple will notify you by email with the new temporary username.
 
 After 30 days, sign in with your temporary Apple Account email address and [change your Apple Account primary email address](https://support.apple.com/109353).
+
+###### Source Document: [Apple Support KB #102159 - If you are asked to transfer your Apple Account or keep it as a personal account](https://support.apple.com/en-us/102159)
