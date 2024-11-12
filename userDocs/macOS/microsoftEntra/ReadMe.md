@@ -1,2 +1,2 @@
 # Microsoft Entra
-## macOS User Docs
+## macOS userDocs
