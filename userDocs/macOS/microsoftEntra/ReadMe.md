@@ -1,0 +1,2 @@
+# Microsoft Entra
+## macOS userDocs
