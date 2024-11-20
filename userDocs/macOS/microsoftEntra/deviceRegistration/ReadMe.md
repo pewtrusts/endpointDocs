@@ -15,9 +15,9 @@
 
 - Next, you'll need to complete authentication via MFA/Microsoft Authenticator push with number challenge, Passkey enabled on another device, or security key.
   
-  ![Enter your password to allow this.](https://github.com/pewtrusts/endpointDocs/blob/main/userDocs/macOS/microsoftEntra/deviceRegistration/Images/PSSOe_SecureEnclave_3.png?raw=true)
+    ![Entra MFA Prompt](https://github.com/pewtrusts/endpointDocs/blob/main/userDocs/macOS/microsoftEntra/deviceRegistration/Images/PSSOe_SecureEnclave_MFA_1.png?raw=true)
 
-*TWO PICS 
+    ![Entra MFA Prompt](https://github.com/pewtrusts/endpointDocs/blob/main/userDocs/macOS/microsoftEntra/deviceRegistration/Images/PSSOe_SecureEnclave_MFA_2.png?raw=true)
 
 - Upon completion, you'll be shown instructions to set up the device as a Passkey provider for Microsoft Entra ID. 
   ![To use your Entra ID passkey, you must enable Company Portal as a Passkey Provider.](https://github.com/pewtrusts/endpointDocs/blob/main/userDocs/macOS/microsoftEntra/deviceRegistration/Images/PSSOe_SecureEnclave_4.png?raw=true)
