@@ -4,6 +4,8 @@
 #### Secure Enclave backed key
 
 ### To prepare your Mac for PSSOe
+**Setup TouchID (MacBooks only at this time)**
+
 - If you have not already, [follow these steps to setup TouchID on your MacBook Pro](https://support.apple.com/guide/mac-help/use-touch-id-mchl16fbf90a/15.0/mac/15.0) (Not necessary for macOS desktops at this time)
 
 ### To register your Mac with PSSOe
