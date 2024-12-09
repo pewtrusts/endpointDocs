@@ -3,12 +3,12 @@
 ### Microsoft Platform Single Sign-On (PSSOe) for Company Portal
 #### Secure Enclave backed key
 
-### To prepare your Mac for PSSOe
+### Prepare your Mac for PSSOe
 **Setup TouchID (MacBooks only at this time)**
 
 - If you have not already, [follow these steps to setup TouchID on your MacBook Pro](https://support.apple.com/guide/mac-help/use-touch-id-mchl16fbf90a/15.0/mac/15.0) (Not necessary for macOS desktops at this time)
 
-### To register your Mac with PSSOe
+### Register your Mac with PSSOe
 
 - After your Mac is provisioned for PSSOe, userDocs/macOS will prompt you to register using your Entra ID.  
   ![Registration Required - Use your identity provider password to log in to your Mac.](https://github.com/pewtrusts/endpointDocs/blob/main/userDocs/macOS/microsoftEntra/deviceRegistration/Images/PSSOe_SecureEnclave_1.png?raw=true)
