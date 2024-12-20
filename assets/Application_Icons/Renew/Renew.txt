@@ -1,0 +1,8 @@
+/Library/Application Support/JAMF/Pew_Branding/applicationIcons/PEW/PCT_2023/Pew_White_on_Blue/install.png
+
+/Library/Application Support/JAMF/Pew_Branding/applicationIcons/PEW/PCT_2023/Pew_White_on_Blue/install.png
+
+SF=restart.circle color1=pink color2=blue
+
+
+https://pewtrusts.jamfcloud.com/api/v1/branding-images/download/10
